@@ -1,0 +1,7 @@
+Late reply but I had this struggle and found the solution just tonight.
+Download HxD and open the .exe file of the game (you can locate it through right click on steam and locate local files)
+CTRL + F in the editor and choose Hexadecimal search and paste 8B CF E8 05 72 41 00 84 C0 74 1A 56
+Locate the 74 byte and replace it with EB
+Save the file and on the HxD and Enjoy the game motion Sickness free
+https://www.reddit.com/r/TombRaider/comments/146eyzf/comment/lsll751/
+
